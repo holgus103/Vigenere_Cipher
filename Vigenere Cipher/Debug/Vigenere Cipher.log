@@ -1,9 +1,0 @@
-﻿  Vigenere.cpp
-  Source.cpp
-c:\users\kuba\documents\projects\vigenere cipher\vigenere cipher\source.cpp(7): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
-  c:\users\kuba\documents\projects\vigenere cipher\vigenere cipher\source.cpp(7): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_DEPRECATE'
-c:\users\kuba\documents\projects\vigenere cipher\vigenere cipher\source.cpp(60): warning C4018: '<': signed/unsigned mismatch
-  Helpers.cpp
-  Generating Code...
-  Vigenere Cipher.vcxproj -> C:\Users\Kuba\Documents\Projects\Vigenere Cipher\Debug\Vigenere Cipher.exe
-  Vigenere Cipher.vcxproj -> C:\Users\Kuba\Documents\Projects\Vigenere Cipher\Debug\Vigenere Cipher.pdb (Partial PDB)
